@@ -3,48 +3,48 @@ Team Exercise Repo
 
 ## Dictionary
 
-Raesfeld - No Translation
+Apfelkuchen - Apple Cake
 
-Flughafen - Airport
-
-Berlin - No Translation
-
-Bratwurst - No Translation
-
-Hauptstrasse - Main Road
-
-Brot - Bread
-
-Klimaanlage - Air Conditioner
-
-Rammstein - No Translation
-
-Porsche - No Translation
-
-BMW - Bavarian Motor Works Corporation
-
-Biergarten - Beer Garden
-
-Ratskeller - No Translation
-
-Dirndel - A Traditional German Dress
-
-Lederhose - Leather Pants
-
-wettbewerbsfaehig - Competitive
-
-Mehlhase - Flour Bunny
-
-Gebaeck - Pastries
+Berlin - City in Germany
 
 Baeckerei - Bakery
 
-Hund - Dog
+Biergarten - Beer Garden
+
+BMW - Bavarian Motor Works Corporation
+
+Brot - Bread
+
+Bratwurst - No Translation
+
+Dirndl - German traditional dress (mispelled?)
 
 Doener - Doner
 
-Apfelkuchen - Apple Cake
+Eltz - No Translation
+
+Flughafen - Airport
+
+Gebaeck - Pastries
+
+Hauptstrasse - Main Road
+
+Hund - Dog
+
+Klimaanlage - Air Conditioner
+
+Lederhose - Leather Pants
+
+Mehlhase - Flour Bunny
+
+Porsche - No Translation
+
+Ratskeller - No Translation
+
+Raesfeld - No Translation
+
+Rammstein - No Translation
 
 Schloss - Lock
 
-Eltz - No Translation
+wettbewerbsfaehig - Competitive
