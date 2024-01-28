@@ -31,8 +31,6 @@ Dirndel - No Translation
 
 Lederhose - Leather Pants
 
-Schloss - Lock
-
 wettbewerbsfaehig - Competitive
 
 Mehlhase - Flour Bunny
