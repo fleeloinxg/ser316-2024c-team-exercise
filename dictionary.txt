@@ -1,23 +1,23 @@
-Raesfeld - No Translation
-Flughafen - Airport
-Berlin - No Translation
-Bratwurst - No Translation
-Hauptstrasse - Main Road
-Brot - Bread
-Klimaanlage - Air Conditioner
-Rammstein - No Translation
-Porsche - No Translation
-BMW - Bavarian Motor Works Corporation
-Biergarten - Beer Garden
-Ratskeller - No Translation
-Dirndl - German traditional dress (mispelled?)
-Lederhose - Leather Pants
-wettbewerbsfaehig - Competitive
-Mehlhase - Flour Bunny
-Gebaeck - Pastries
-Baeckerei - Bakery
-Hund - Dog
-Doener - Doner
 Apfelkuchen - Apple Cake
-Schloss - Lock
+Berlin - City in Germany
+Baeckerei - Bakery
+Biergarten - Beer Garden
+BMW - Bavarian Motor Works Corporation
+Brot - Bread
+Bratwurst - No Translation
+Dirndl - German traditional dress (mispelled?)
+Doener - Doner
 Eltz - No Translation
+Flughafen - Airport
+Gebaeck - Pastries
+Hauptstrasse - Main Road
+Hund - Dog
+Klimaanlage - Air Conditioner
+Lederhose - Leather Pants
+Mehlhase - Flour Bunny
+Porsche - No Translation
+Ratskeller - No Translation
+Raesfeld - No Translation
+Rammstein - No Translation
+Schloss - Lock
+wettbewerbsfaehig - Competitive
