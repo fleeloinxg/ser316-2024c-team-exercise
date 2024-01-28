@@ -27,7 +27,7 @@ Biergarten - Beer Garden
 
 Ratskeller - No Translation
 
-Dirndel - No Translation
+Dirndel - A Traditional German Dress
 
 Lederhose - Leather Pants
 
